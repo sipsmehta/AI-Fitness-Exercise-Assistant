@@ -27,6 +27,11 @@ You can install the required packages by running the following command:
 
 ### Customize the visualization: The program uses OpenCV to draw the detected landmarks and display the rep count on the screen. You can modify the visualization code in the while loop to change the appearance or add additional visual elements.
 
+# Prototype Video
+## You may refer to this link:
+## https://www.linkedin.com/posts/sparsh-mehta-058585158_computervision-fitness-artificialintelligence-activity-6941860351294472192-kyFz?utm_source=share&utm_medium=member_desktop
+
 ## Contributing
 ### Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
 
